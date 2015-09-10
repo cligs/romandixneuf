@@ -46,15 +46,14 @@
 			</abstract>
 			<textClass>
 				<keywords scheme="keywords.csv">
-        <!-- Terms have optional attributes cert and resp. -->
-					<term type="supergenre">Narrative</term>
-					<term type="genre">Novel</term>
-					<term type="subgenre">Fantastic</term>
+					<term type="supergenre">narrative</term>
+					<term type="genre">roman</term>
+					<term type="subgenre">fantastique</term>
 					<term type="genre-subtitle"></term>
 					<term type="genre-label"></term>
-					<term type="narrative-perspective">Homodiegetic</term>
-					<term type="form">Novel</term>
-					<term type="author-gender">Male</term>
+					<term type="narrative-perspective">homodiegetic</term>
+					<term type="form">roman</term>
+					<term type="author-gender">male</term>
 				</keywords>
 			</textClass>
 		</profileDesc>
