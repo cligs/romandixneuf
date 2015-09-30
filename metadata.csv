@@ -1,6 +1,7 @@
 ,idno,author,gender,title,year,supergenre,genre,subgenre,genre-label,genre-subtitle,narration,availability,decade
 rd0167,rd0167,Verne,male,FamilleSansNom,1889,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd0475,rd0475,Stolz,female,ViolenceBonté,1888,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
+rd0723,rd0723,Balzac,male,Lambert,1832,narrative,roman,fantastique,n.av.,n.av.,n.av.,publicdomain,1830s
 rd0658,rd0658,Ohnet,male,Batailles1MarchandPoison,1892,narrative,novel,blanche,n.av.,n.av.,heterodiegetic,publicdomain,1890s
 rd1156,rd1156,Gaboriau,male,VieInfernale1,1870,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1870s
 rd0139,rd0139,Sue,male,MysteresPeuple11,1854,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1850s
@@ -83,6 +84,7 @@ rd0450,rd0450,Sand,female,LucreziaFloriani,1846,narrative,novel,blanche,n.av.,n.
 rd0562,rd0562,Balzac,male,AlbertSavarus,1842,narrative,novel,blanche,n.av.,n.av.,heterodiegetic,restricted,1840s
 rd0643,rd0643,Hugo,male,Miserables3Marius,1862,narrative,novel,blanche,n.av.,n.av.,heterodiegetic,publicdomain,1860s
 rd0100,rd0100,Zola,male,Assommoir,1877,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
+rd0727,rd0727,Gay,female,Ellénore,1844,narrative,roman,blanche,n.av.,n.av.,n.av.,restricted,1840s
 rd0371,rd0371,Gouraud,male,QuatrePiecesOr,1874,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
 rd0350,rd0350,Fleuriot,female,Alberte,1881,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd0625,rd0625,FevalPP,male,VilleVampire,1875,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
@@ -134,6 +136,7 @@ rd1002,rd1002,Boisgobey,male,OeilChat1,1888,narrative,novel,policier,n.av.,n.av.
 rd0409,rd0409,Malot,male,RomainKalbris,1869,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1860s
 rd1174,rd1174,Ponson,male,MiseresLondres3,1868,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1860s
 rd0404,rd0404,Loti,male,RomanEnfant,1890,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1890s
+rd0728,rd0728,Constant,male,CahierRouge,1907,narrative,roman,blanche,n.av.,n.av.,autodiegetic,publicdomain,1900s
 rd0303,rd0303,Aimard,male,RoisOcean2VentEnPanne,1877,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
 rd0300,rd0300,Aimard,male,Forestier,1869,narrative,novel,blanche,n.av.,n.av.,heterodiegetic,publicdomain,1860s
 rd1163,rd1163,Ponson,male,CordePendu1,1870,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1870s
@@ -146,6 +149,7 @@ rd0647,rd0647,France,male,Thais,1890,narrative,novel,blanche,n.av.,n.av.,heterod
 rd0308,rd0308,Aimard,male,ChasseurRats,1877,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
 rd0317,rd0317,AimardAuriac,male,ForestiersMichigan,1879,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
 rd0033,rd0033,ErckChat,male,HistoirePaysan2,1869,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1860s
+rd0725,rd0725,Chateaubriand,male,Natchez,1821,narrative,roman,blanche,n.av.,n.av.,n.av.,restricted,1820s
 rd1170,rd1170,Ponson,male,ExploitsRocambole2,1859,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1850s
 rd0107,rd0107,Boisgobey,male,BandeRouge2,1886,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd1028,rd1028,Gaboriau,male,EsclavesParis1,1868,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1860s
@@ -217,6 +221,7 @@ rd1157,rd1157,Gaboriau,male,VieInfernale2,1870,narrative,novel,policier,n.av.,n.
 rd0056,rd0056,Maupassant,male,UneVie,1883,narrative,novel,blanche,Bildungsroman,n.av.,heterodiegetic,publicdomain,1880s
 rd0035,rd0035,ErckChat,male,HistoirePaysan4,1869,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1860s
 rd1022,rd1022,Gaboriau,male,Argent2,1874,narrative,novel,policier,Kriminalroman,n.av.,heterodiegetic,publicdomain,1870s
+rd0724,rd0724,Dumas,male,Fantômes,1849,narrative,roman,fantastique,n.av.,récits,n.av.,publicdomain,1840s
 rd1160,rd1160,Ponson,male,Chevaliers,1860,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1860s
 rd0479,rd0479,Stolz,female,TresorNanette,1872,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
 rd0408,rd0408,Malot,male,Zyte,1886,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
@@ -231,6 +236,7 @@ rd1165,rd1165,Ponson,male,DernierMot4,1867,narrative,novel,policier,n.av.,n.av.,
 rd0057,rd0057,Zola,male,BeteHumaine,1890,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1890s
 rd0369,rd0369,Gouraud,male,QuandGrande,1888,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd0416,rd0416,Malot,male,ClotildeMartory,1873,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1870s
+rd0729,rd0729,Maistre,male,ExpéditionNocturne,1825,narrative,roman,blanche,n.av.,n.av.,autodiegetic,restricted,1820s
 rd0634,rd0634,FevalPP,male,JeanDiable1,1862,narrative,novel,policier,n.av.,n.av.,n.av.,publicdomain,1860s
 rd0059,rd0059,Zola,male,Nana,1885,narrative,novel,blanche,Gesellschaftsroman,n.av.,heterodiegetic,publicdomain,1880s
 rd0093,rd0093,Zola,male,DocteurPascal,1893,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1890s
@@ -243,6 +249,7 @@ rd0566,rd0566,Balzac,male,UrsuleMirouet,1841,narrative,novel,blanche,n.av.,n.av.
 rd0561,rd0561,Balzac,male,FausseMaitresse,1842,narrative,novel,blanche,n.av.,n.av.,heterodiegetic,restricted,1840s
 rd0024,rd0024,Daudet,male,Tartarin2,1885,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd1029,rd1029,Gaboriau,male,EsclavesParis2,1867,narrative,novel,policier,n.av.,n.av.,heterodiegetic,publicdomain,1860s
+rd0726,rd0726,Gay,female,Ellenore,1844,narrative,roman,blanche,n.av.,n.av.,n.av.,publicdomain,1840s
 rd0373,rd0373,Gouraud,male,PetiteMaitresse,1884,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd0172,rd0172,Verne,male,MathiasSandorf,1885,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
 rd0419,rd0419,Malot,male,Baccara,1886,narrative,novel,blanche,n.av.,n.av.,n.av.,publicdomain,1880s
