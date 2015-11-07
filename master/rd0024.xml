@@ -7,12 +7,12 @@
         <title type="sub">Nouveaux exploits du héros tarasconnais</title>
         <title type="short">Tartarin2</title>
         <title type="idno">
-          <idno type="viaf">title</idno>
+          <idno type="viaf">310915381</idno>
         </title>
         <author>
-          <idno type="viaf">author</idno>
+          <idno type="viaf">4928621</idno>
           <name type="short">Daudet</name>
-          <name type="full">author</name>
+          <name type="full">Alphonse Daudet</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>
