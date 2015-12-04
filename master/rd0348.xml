@@ -11,9 +11,9 @@
           <idno type="viaf"></idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">41872490</idno>
           <name type="short">Fleuriot</name>
-          <name type="full">Fleuriot</name>
+          <name type="full">Zénaïde Fleuriot</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>
