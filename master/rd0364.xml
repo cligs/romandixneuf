@@ -8,12 +8,12 @@
         <title type="sub"></title>
         <title type="short">RomanMomie</title>
         <title type="idno">
-          <idno type="viaf"></idno>
+          <idno type="viaf">202971993</idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">96428598</idno>
           <name type="short">Gautier</name>
-          <name type="full">Gautier</name>
+          <name type="full">Théophile Gautier</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>
