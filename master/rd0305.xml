@@ -55,13 +55,13 @@
           <term type="narrative-perspective"></term>
           <term type="form">prose</term>
           <term type="author-gender">male</term>
-            <term type="tei">1</term>
-        <term type="protagonist-policier"></term>
-                    <term type="main-event"></term>
+          <term type="tei">1</term>
+          <term type="protagonist-policier"></term>
+          <term type="main-event"></term>
           <term type="protagonist-gender"></term>
           <term type="setting"></term>
           <term type="status"></term>
-</keywords>
+        </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -2738,13 +2738,13 @@
         <p>Mais il avait conservé la goélette ; grâce à laquelle plusieurs fois encore il redevint riche, et sa charmante femme, qui, disait-il en goguenardant, lui tenait lieu de tout ce qu'il avait perdu.</p>
         <p>Vers la fin du règne de Louis XIV, doña Elmina parut à la cour de Versailles, où elle fut présentée au roi par Madame la Marquise de Maintenon elle-même ; mais alors son mari avait repris son nom et son titre.</p>
         <p>Certes personne n'aurait reconnu dans cet élégant et fier gentilhomme Ourson Tête-de-Fer, le redoutable boucanier qui avait si longtemps fait trembler les Espagnols sur toutes les mers américaines.</p>
-        <p>  </p>
-        <p>1  Cette singulière chasse-partie est rigoureusement historique, elle se trouve tout au long dans l'ouvrage si intéressant d'Olivier Oexmelin.\]</p>
-        <p>1  On nomme plata piña, des vases, des plats, des assiettes et des gobelets d'argent, brisés à coups de marteaux et qui ne paient de cette façon que des droits très faibles.</p>
       </div>
     </body>
     <back>
-      <div></div>
+      <div>
+        <p>1  Cette singulière chasse-partie est rigoureusement historique, elle se trouve tout au long dans l'ouvrage si intéressant d'Olivier Oexmelin.\]</p>
+        <p>1  On nomme plata piña, des vases, des plats, des assiettes et des gobelets d'argent, brisés à coups de marteaux et qui ne paient de cette façon que des droits très faibles.</p>    
+      </div>
     </back>
   </text>
 </TEI>

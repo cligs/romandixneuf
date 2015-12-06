@@ -46,18 +46,18 @@
           <term type="supergenre">narrative</term>
           <term type="genre">novel</term>
           <term type="subgenre">fantastique</term>
-          <term type="subsubgenre">blanche</term>
+          <term type="subsubgenre">fantastique</term>
           <term type="genre-label"/>
-          <term type="narrative-perspective"></term>
+          <term type="narrative-perspective">heterodiegetic</term>
           <term type="form">prose</term>
-<term type="author-gender">male</term>
-            <term type="tei">1</term>
-        <term type="protagonist-policier"></term>
-                    <term type="main-event"></term>
+          <term type="author-gender">male</term>
+          <term type="tei">1</term>
+          <term type="protagonist-policier"></term>
+          <term type="main-event"></term>
           <term type="protagonist-gender"></term>
           <term type="setting"></term>
           <term type="status"></term>
-</keywords>
+        </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>
