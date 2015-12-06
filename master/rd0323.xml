@@ -8,12 +8,12 @@
         <title type="sub"></title>
         <title type="short">AffaireBlaireau</title>
         <title type="idno">
-          <idno type="viaf"></idno>
+          <idno type="viaf">309297740</idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">89053456</idno>
           <name type="short">Allais</name>
-          <name type="full">Allais</name>
+          <name type="full">Alphonse Allais</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

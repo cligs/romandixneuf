@@ -11,9 +11,9 @@
           <idno type="viaf"></idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">37053113</idno>
           <name type="short">Dombre</name>
-          <name type="full">Dombre</name>
+          <name type="full">Roger Dombre</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

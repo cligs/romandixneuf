@@ -12,7 +12,7 @@
         <author>
           <idno type="viaf">author</idno>
           <name type="short">Daudet</name>
-          <name type="full">author</name>
+          <name type="full">Alphonse Daudet</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

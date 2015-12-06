@@ -8,11 +8,11 @@
         <title type="sub"></title>
         <title type="short">MlleMaupin</title>
         <title type="idno">
-          <idno type="viaf"></idno></title>
+          <idno type="viaf">206860467</idno></title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">96428598</idno>
           <name type="short">Gautier</name>
-          <name type="full">Gautier</name>
+          <name type="full">Théophile Gautier</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

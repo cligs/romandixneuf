@@ -8,11 +8,11 @@
         <title type="sub"></title>
         <title type="short">LoiLynch</title>
         <title type="idno">
-          <idno type="viaf"></idno></title>
+          <idno type="viaf"></idno>310269698</title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">9841962</idno>
           <name type="short">Aimard</name>
-          <name type="full">Aimard</name>
+          <name type="full">Aimard, Gustave</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

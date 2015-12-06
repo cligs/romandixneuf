@@ -8,12 +8,12 @@
         <title type="sub"></title>
         <title type="short">PecheurIslande</title>
         <title type="idno">
-          <idno type="viaf"></idno>
+          <idno type="viaf">183645690</idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">89440078</idno>
           <name type="short">Loti</name>
-          <name type="full">Loti</name>
+          <name type="full">Pierre Loti</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

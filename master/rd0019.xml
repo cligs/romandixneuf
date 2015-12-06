@@ -8,12 +8,12 @@
                 <title type="sub">Mœurs Parisiennes</title>
                 <title type="short">NumaRoumestan</title>
                 <title type="idno">
-                    <idno type="viaf">title</idno>
+                    <idno type="viaf">287900644</idno>
                 </title>
                 <author>
-                    <idno type="viaf">author</idno>
+                    <idno type="viaf">4928621</idno>
                     <name type="short">Daudet</name>
-                    <name type="full">Daudet</name>
+                    <name type="full">Alphonse Daudet</name>
                 </author>
                 <principal xml:id="cf">Christof Schöch</principal>
             </titleStmt>

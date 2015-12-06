@@ -11,9 +11,9 @@
                     <idno type="viaf">title</idno>
                 </title>
                 <author>
-                    <idno type="viaf">author</idno>
+                    <idno type="viaf">31995972</idno>
                     <name type="short">ErckChat</name>
-                    <name type="full">author</name>
+                    <name type="full">Émile Erckmann</name>
                 </author>
                 <principal xml:id="cf">Christof Schöch</principal>
             </titleStmt>

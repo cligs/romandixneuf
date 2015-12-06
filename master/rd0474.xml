@@ -8,12 +8,12 @@
         <title type="sub"></title>
         <title type="short">Compagnon</title>
         <title type="idno">
-          <idno type="viaf"></idno>
+          <idno type="viaf">194896547</idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">46766944</idno>
           <name type="short">Sand</name>
-          <name type="full">Sand</name>
+          <name type="full">George Sand</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

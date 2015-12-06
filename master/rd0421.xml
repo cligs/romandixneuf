@@ -11,9 +11,9 @@
           <idno type="viaf"></idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">2503579</idno>
           <name type="short">Mary</name>
-          <name type="full">Mary</name>
+          <name type="full">Jules Mary</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

@@ -11,9 +11,9 @@
           <idno type="viaf"></idno>
         </title>
         <author>
-          <idno type="viaf"></idno>
+          <idno type="viaf">100204602</idno>
           <name type="short">Mirbeau</name>
-          <name type="full">Mirbeau</name>
+          <name type="full">Octave Mirbeau</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>

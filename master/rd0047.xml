@@ -7,12 +7,12 @@
         <title type="sub"/>
         <title type="short">MonFrereYves</title>
         <title type="idno">
-          <idno type="viaf">title</idno>
+          <idno type="viaf">294701732</idno>
         </title>
         <author>
-          <idno type="viaf">author</idno>
+          <idno type="viaf">89440078</idno>
           <name type="short">Loti</name>
-          <name type="full">author</name>
+          <name type="full">Pierre Loti</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>
