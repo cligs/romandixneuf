@@ -8,10 +8,10 @@
                 <title type="sub"/>
                 <title type="short">DoubleBlanc</title>
                 <title type="idno">
-                    <idno type="viaf"/>
+                    <idno type="viaf"></idno>
                 </title>
                 <author>
-                    <idno type="viaf"/>
+                    <idno type="viaf">19720225</idno>
                     <name type="short">Boisgobey</name>
                     <name type="full"/>
                 </author>
