@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main"></title>
+        <title type="main">Les Bandits d'Arizona</title>
         <title type="sub"></title>
         <title type="short">BanditsArizona</title>
         <title type="idno">
@@ -22,7 +22,7 @@
         <availability status="publicdomain">
           <p></p>
         </availability>
-        <date></date>
+        <date>2015</date>
         <idno type="cligs">rd0301</idno>
       </publicationStmt>
       <sourceDesc>
@@ -48,20 +48,16 @@
         <keywords scheme="keywords.csv">
           <term type="supergenre">narrative</term>
           <term type="genre">novel</term>
-          <term type="subgenre">blanche</term>
-          <term type="subsubgenre">blanche</term>
-          <term type="genre-subtitle"></term>
+          <term type="subgenre" subtype="3">adventure</term>
+          <term type="subsubgenre"></term>
           <term type="genre-label"></term>
-          <term type="narrative-perspective"></term>
           <term type="form">prose</term>
-          <term type="author-gender">male</term>
-            <term type="tei">1</term>
-        <term type="protagonist-policier"></term>
-                    <term type="main-event"></term>
+          <term type="narrative-perspective" cert="medium">heterodiegetic</term>
           <term type="protagonist-gender"></term>
           <term type="setting"></term>
-          <term type="status"></term>
-</keywords>
+          <term type="author-gender">male</term>
+          <term type="tei">1</term>
+        </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -610,8 +606,7 @@
         <p>-- Croyez-vous ?</p>
         <p>-- Dame, voyez vous-même.</p>
         <p>-- C'est étonnant !</p>
-        <p>
-          <seg rend="italic">-- </seg>N'est-ce pas ?</p>
+        <p>-- N'est-ce pas ?</p>
         <p>-- Mais j'y songe, ne serait-ce pas que cela vous semble ainsi parce que les biscuits pompent tout le vin ?</p>
         <p>-- C'est bien possible.</p>
         <p>-- Voyons encore ?</p>

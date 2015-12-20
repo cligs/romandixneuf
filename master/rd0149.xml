@@ -25,8 +25,12 @@
         <idno type="cligs">rd0149</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source"><date>2008</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
-        <bibl type="print-source">Bibliothèque d’Éducation et de Récréation J. Hetzel et Cie, <date>source</date>.</bibl>
+        <bibl type="digital-source">
+			Ebooks libres et gratuits, <date>2008</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.
+		</bibl>
+        <bibl type="print-source">
+			Bibliothèque d’Éducation et de Récréation J. Hetzel et Cie, <date></date>.
+		</bibl>
         <bibl type="edition-first">
           <date>1888</date>
         </bibl>
@@ -43,19 +47,16 @@
         <keywords scheme="keywords.csv">
           <term type="supergenre">narrative</term>
           <term type="genre">novel</term>
-          <term type="subgenre">blanche</term>
-          <term type="subsubgenre">blanche</term>
+          <term type="subgenre" subtype="3">adventure</term>
+          <term type="subsubgenre">Robinsonade</term>
           <term type="genre-label"/>
-          <term type="narrative-perspective"></term>
           <term type="form">prose</term>
-<term type="author-gender">male</term>
-            <term type="tei">1</term>
-        <term type="protagonist-policier"></term>
-                    <term type="main-event"></term>
+          <term type="narrative-perspective" cert="medium">heterodiegetic</term>
           <term type="protagonist-gender"></term>
           <term type="setting"></term>
-          <term type="status"></term>
-</keywords>
+          <term type="author-gender">male</term>
+          <term type="tei">11</term>
+        </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>

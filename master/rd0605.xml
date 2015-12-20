@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main"></title>
+                <title type="main">Le Cavalier Fortune</title>
                 <title type="sub"></title>
                 <title type="short">CavalierFortune</title>
                 <title type="idno">
@@ -13,28 +13,22 @@
                 <author>
                     <idno type="viaf">17222447</idno>
                     <name type="short">FevalPP</name>
-                    <name type="full">Féval, Paul (père)</name>
+                    <name type="full">Féval, Paul H.C. (père)</name>
                 </author>
                 <principal xml:id="cf">Christof Schöch</principal>
             </titleStmt>
             <publicationStmt>
                 <publisher>CLiGS</publisher>
                 <availability status="publicdomain">
-                    <p></p>
+                    <p/>
                 </availability>
-                <date></date>
+                <date>2015</date>
                 <idno type="cligs">rd0605</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">
-          ELG, <date></date>, <idno></idno>, <ref target="#"/>.
-        </bibl>
-                <bibl type="print-source">
-                    <date></date>, <idno></idno>, <ref target="#"/>.
-        </bibl>
-                <bibl type="edition-first">
-          Dentu, <date>1868</date>, <idno></idno>, <ref target="#"/>.
-        </bibl>
+                <bibl type="digital-source">Ebooks libres et gratuits, <date></date>, <idno></idno>, <ref target="#"/>.</bibl>
+                <bibl type="print-source"><date></date>, <idno></idno>, <ref target="#"/>.</bibl>
+                <bibl type="edition-first">Dentu, <date>1868</date>, <idno></idno>, <ref target="#"/>.</bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -48,18 +42,19 @@
                 <keywords scheme="keywords.csv">
                     <term type="supergenre">narrative</term>
                     <term type="genre">novel</term>
-                    <term type="subgenre">blanche</term>
-                    <term type="subsubgenre">Abenteuerroman</term>
-                    <term type="genre-subtitle"></term>
-                    <term type="genre-label"></term>
-                    <term type="narrative-perspective"></term>
+                    <term type="subgenre" resp="#cf" cert="1">adventure</term>
+                    <term type="subgenre" resp="#cf" cert="1">historical</term>
+                    <term type="subsubgenre">de-cap-et-d-épée</term>
+                    <term type="subsubgenre"></term>
+                    <term type="genre-label"/>
+                    <term type="narrative-perspective">heterodiegetic</term>
                     <term type="form">prose</term>
-                    <term type="author-gender">male</term>
                     <term type="protagonist-gender"></term>
-                    <term type="protagonist-policier"></term>
                     <term type="setting"></term>
+					<term type="author-continent">Europe</term>
+					<term type="author-country">France</term>
+					<term type="author-gender">male</term>
                     <term type="tei">11</term>
-                    <term type="status"></term>
                 </keywords>
             </textClass>
         </profileDesc>

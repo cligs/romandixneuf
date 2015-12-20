@@ -1,4 +1,3 @@
-
 <?xml-model href="https://raw.githubusercontent.com/cligs/toolbox/master/tei/cligs.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
@@ -13,7 +12,7 @@
                 <author>
                     <idno type="viaf">17228199</idno>
                     <name type="short">Ponson</name>
-                    <name type="full">Ponson du Terrail</name>
+                    <name type="full">Ponson du Terrail, Pierre Alexis de</name>
                 </author>
                 <principal xml:id="cf">Christof Schöch</principal>
             </titleStmt>
@@ -22,13 +21,13 @@
                 <availability status="publicdomain">
                     <p/>
                 </availability>
-                <date>2014</date>
+                <date>2015</date>
                 <idno type="cligs">rd1168</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="digital-source">Ebooksgratuits.com, <date>2011</date>, <idno/>, <ref target="#"/>.</bibl>
-                <bibl type="print-source">Arthème Fayard -- février 1910 -- le Livre populaire n° 18, XIVe aventure de Rocambole publiée dans cette collection, <date>1910</date>, <idno/>, <ref target="#"/>.</bibl>
-                <bibl type="edition-first">Sous le titre Les Démolitions de Paris -- La Petite Presse -- 21 février au 12 juin 1869 -- 122 épisodes, en deux parties : Les Amours du Limousin et La Captivité du maître, <date>1869</date>, <idno/>, <ref target="#"/>.</bibl>
+                <bibl type="digital-source">Ebooks libres et gratuits, <date>2011</date>, <idno/>, <ref target="#"/>.</bibl>
+                <bibl type="print-source">Arthème Fayard, Le Livre populaire n° 18, XIVe aventure de Rocambole publiée dans cette collection, <date>1910</date>, <idno/>, <ref target="#"/>.</bibl>
+                <bibl type="edition-first">Sous le titre Les Démolitions de Paris: La Petite Presse, 21 février au 12 juin 1869, 122 épisodes, en deux parties : Les Amours du Limousin et La Captivité du maître, <date>1869</date>, <idno/>, <ref target="#"/>.</bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -42,18 +41,18 @@
                 <keywords scheme="keywords.csv">
                     <term type="supergenre">narrative</term>
                     <term type="genre">novel</term>
-                    <term type="subgenre">policier</term>
+                    <term type="subgenre" resp="#cf" cert="medium" subtype="2">crime-fiction</term> <!-- "roman d'aventures criminelles" (Dico Ponson) -->
+                    <term type="subgenre" resp="#cf" cert="low" subtype="1">aventures</term> <!-- "roman d'aventures criminelles" (Dico Ponson) -->
                     <term type="subsubgenre">archaique</term>
                     <term type="genre-label"/>
                     <term type="narrative-perspective">heterodiegetic</term>
                     <term type="form">prose</term>
-                    <term type="author-gender">male</term>
-                    <term type="tei">11</term>
-                    <term type="protagonist-policier">criminal</term>
-                    <term type="main-event"></term>
-                    <term type="protagonist-gender">male</term>
+					<term type="protagonist-gender">male</term>
                     <term type="setting">urban</term>
-                    <term type="status"></term>
+                    <term type="author-continent">Europe</term>
+					<term type="author-country">France</term>
+					<term type="author-gender">male</term>
+                    <term type="tei">11</term>
                 </keywords>
             </textClass>
         </profileDesc>

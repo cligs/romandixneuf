@@ -12,7 +12,7 @@
         <author>
           <idno type="viaf">76323989</idno>
           <name type="short">Verne</name>
-          <name type="full">Jules Verne</name>
+          <name type="full">Verne, Jules</name>
         </author>
         <principal xml:id="cf">Christof Schöch</principal>
       </titleStmt>
@@ -25,7 +25,8 @@
         <idno type="cligs">rd0081</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digital-source"><date>2005</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
+        <bibl type="digital-source">
+          <date>2005</date>, <idno/>, <ref target="http://www.ebooksgratuits.com/"/>.</bibl>
         <bibl type="print-source">
           <date>source</date>
         </bibl>
@@ -45,19 +46,16 @@
         <keywords scheme="keywords.csv">
           <term type="supergenre">narrative</term>
           <term type="genre">novel</term>
-          <term type="subgenre">blanche</term>
-          <term type="subsubgenre">blanche</term>
+          <term type="subgenre" subtype="3">adventure</term>
+          <term type="subsubgenre"></term>
           <term type="genre-label"/>
-          <term type="narrative-perspective"></term>
           <term type="form">prose</term>
-<term type="author-gender">male</term>
-            <term type="tei">1</term>
-        <term type="protagonist-policier"></term>
-                    <term type="main-event"></term>
+          <term type="narrative-perspective" cert="medium">heterodiegetic</term>
           <term type="protagonist-gender"></term>
           <term type="setting"></term>
-          <term type="status"></term>
-</keywords>
+          <term type="author-gender">male</term>
+          <term type="tei">11</term>
+        </keywords>
       </textClass>
     </profileDesc>
     <revisionDesc>
