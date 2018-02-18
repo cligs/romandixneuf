@@ -6,7 +6,7 @@
 			<titleStmt>
 				<title type="main">La femme au collier de velours</title>
 				<title type="sub"></title>
-				<title type="short">ColliersVelours</title>
+				<title type="short">FemmeCollierVelours</title>
 				<title type="idno">
 					<idno type="viaf">206874174</idno>
 				</title>
@@ -17,6 +17,9 @@
 				</author>
 				<principal xml:id="sp">Stefanie Popp</principal>
 			</titleStmt>
+			<extent>
+				<measure unit="words">59772</measure>
+            </extent>
 			<publicationStmt>
 				<publisher>CLiGS</publisher>
 				<availability status="publicdomain">
@@ -54,6 +57,7 @@
 					<term type="narrative-perspective"></term>
 					<term type="form">roman</term>
 					<term type="author-gender">male</term>
+					<term type="reprints_1980-1999">0</term>
 				</keywords>
 			</textClass>
 		</profileDesc>
